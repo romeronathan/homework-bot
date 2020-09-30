@@ -95,7 +95,7 @@ client.on("message", (message) => {
   }
 });
 
-bot.login(process.env.token);
+client.login(process.env.token);
 
 /*if (message.content === "!addhomework") {
     const doc = newGuildModel({ id: message.guild.id });
