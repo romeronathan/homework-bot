@@ -1,12 +1,10 @@
 const Discord = require("discord.js");
-const { timers } = require("jquery");
 
 //const GuildModel = require("./model/Guild");
 //const { connect } = require("mongoose");
 //const { Client } = require("discord.js");
 const client = new Discord.Client();
 //const { TOKEN } = require("./config.json");
-const config = require("./config.json");
 const prefix = "!";
 
 client.once("ready", () => {
@@ -97,24 +95,3 @@ client.on("message", (message) => {
 
 client.login(process.env.TOKEN);
 
-/*if (message.content === "!addhomework") {
-    const doc = newGuildModel({ id: message.guild.id });
-    await doc.save();
-    message.reply("Made new homework entry!");
-  } else if (message.content === "!homework") {
-    const req = await GuildModel.findOne({ id: message.guild.id });
-    if (!req) return message.reply("No homework found!");
-    return message.reply("Here is the homework: + ${req.addhomework}");
-  }
-});
-
-(async () => {
-  await connect(
-    "mongodb+srv://bob:computer1998@cluster0.oue7q.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    {
-      useNewUrlParser: true,
-      useFindAndModify: false,
-    }
-  );
-  return client.login(TOKEN);
-})();*/
