@@ -53,6 +53,7 @@ client.on("message", (message) => {
       "***Lecture Links***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
+       "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43173_1&mode=view\n"
         "\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
