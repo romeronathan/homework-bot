@@ -29,8 +29,10 @@ client.on("message", (message) => {
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Mobile Panini Due October 9th.\n" +
-        "Quiz 1 Due October 11th.\n" +
-        "Dianes Run Due October 16th. \n\n" +
+        "Quiz 1 Due October 4th.\n" +
+        "Quiz 2 Due October 11th.\n" +
+        "Dianes Run Due October 16th. \n" +
+        "Quiz 3 Due October 18th.\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
         "Data Fundamentals Assignment 1# Due October 7th.\n\n" +
