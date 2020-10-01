@@ -126,7 +126,7 @@ client.on("message", (message) => {
   else if (command === "peter") {
     for (let index = 0; index < 3; index++) {
       message.channel.send(
-        "https://cdn.discordapp.com/emojis/758395138501902366.png?v=1"
+        "https://cdn.discordapp.com/emojis/761232519839481886.png?v=1"
       );
     }
   } // Chad
