@@ -28,8 +28,8 @@ client.on("message", (message) => {
         "Lab 1 & 2 Due October 1st.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Mobile Panini Due October 9th.\n" +
         "Quiz 1 Due October 4th.\n" +
+        "Mobile Panini Due October 9th.\n" +
         "Quiz 2 Due October 11th.\n" +
         "Dianes Run Due October 16th. \n" +
         "Quiz 3 Due October 18th.\n\n" +
