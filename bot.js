@@ -25,7 +25,9 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-        "Lab 1 & 2 Due October 1st.\n\n" +
+        "Lab 4 (Convert Celsius to Fahrenheit) Due October 8th.\n" +
+        "Lab 5 (Compute Volume of a Cylinder) Due October 8th.\n" +
+        "Lab 6 (Sum the digits in an Integer) Due October 8th.\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Quiz 1 Due October 4th.\n" +
