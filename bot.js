@@ -1,10 +1,7 @@
 const Discord = require("discord.js");
 
-//const GuildModel = require("./model/Guild");
-//const { connect } = require("mongoose");
-//const { Client } = require("discord.js");
 const client = new Discord.Client();
-//const { TOKEN } = require("./config.json");
+
 const prefix = "!";
 
 client.once("ready", () => {
@@ -20,6 +17,7 @@ client.on("message", (message) => {
 
   const args = message.content.slice(prefix.length).split(/ +/);
   const command = args.shift().toLowerCase();
+  // List off homework due
   if (command === "homework") {
     message.channel.send(
       "***Homework Due:***\n" +
@@ -47,7 +45,7 @@ client.on("message", (message) => {
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
     );
   }
-  // lectures
+  // List off lecture links
   else if (command === "lectures") {
     message.channel.send(
       "***Lecture Links***\n" +
