@@ -63,7 +63,7 @@ client.on("message", (message) => {
         "\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "https://ca.bbcollab.com/collab/ui/session/join/618590d6702b4bd78f9b863a02bd85d530454923285\n\n" +
+        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42029_1&mode=view\n\n" +
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "https://ca.bbcollab.com/collab/ui/session/join/de0b1f4221734e649c41f6fec30dd148"
