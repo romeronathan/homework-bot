@@ -55,7 +55,7 @@ client.on("message", (message) => {
         "\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "https://ca.bbcollab.com/collab/ui/session/join/74599474850c44b987852d5e32192287\n\n" +
+        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42067_1&mode=view\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
         "\n\n" +
