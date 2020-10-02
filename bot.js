@@ -66,7 +66,7 @@ client.on("message", (message) => {
         "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42029_1&mode=view\n\n" +
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-        "https://ca.bbcollab.com/collab/ui/session/join/de0b1f4221734e649c41f6fec30dd148"
+        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43102_1&mode=view"
     );
   }
   //CountDown
