@@ -140,9 +140,6 @@ client.on("message", (message) => {
         "https://cdn.discordapp.com/emojis/757996670205296759.png?v=1"
       );
     }
-  } // Fuck You Brooke
-  else if (command === "brooke") {
-    message.channel.send("Fuck you, Brooke!");
   }
 });
 
