@@ -38,8 +38,8 @@ client.on("message", (message) => {
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         // GRAPHIC DESIGN
-        "__**GRAPHIC DESIGN:**__\n\n" +
-        "Assignment #1 Due October 8th (Thursday)\n " +
+        "__**GRAPHIC DESIGN:**__\n" +
+        "Assignment #1 Due October 8th (Thursday)\n\n" +
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
     );
   } else if (command === "help") {
