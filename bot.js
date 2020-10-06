@@ -41,6 +41,17 @@ client.on("message", (message) => {
         "__**GRAPHIC DESIGN:**__\n\n" +
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
     );
+  } else if (command === "help") {
+    message.channel.send(
+      "***Command List (for now)***\n" +
+        "!homework\n" +
+        "!lectures\n" +
+        "!flip\n" +
+        "!countdown\n" +
+        "!toby\n" +
+        "!chad\n" +
+        "!peter\n"
+    );
   }
   // List off lecture links
   else if (command === "lectures") {
