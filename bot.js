@@ -37,8 +37,6 @@ client.on("message", (message) => {
         "Data Fundamentals Assignment 1# Due October 7th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
-        // "Quiz 2 Due October 2nd.\n" +
-        //"Assignment 1 Due October 2nd.\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
@@ -61,6 +59,9 @@ client.on("message", (message) => {
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
         "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42029_1&mode=view\n\n" +
+        //GRAPHIC DESIGN
+        "_**GRAPHIC DESIGN**_\n" +
+        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43101_1\n\n" +
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43102_1&mode=view"
