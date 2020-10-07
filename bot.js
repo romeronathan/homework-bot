@@ -27,19 +27,19 @@ client.on("message", (message) => {
         "Lab 6 (Sum the digits in an Integer) Due October 8th.\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Quiz 1 Due October 4th.\n" +
         "Mobile Panini Due October 9th.\n" +
         "Quiz 2 Due October 11th.\n" +
         "Dianes Run Due October 16th. \n" +
         "Quiz 3 Due October 18th.\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "Data Fundamentals Assignment 1# Due October 7th.\n\n" +
+        "Assignment #1 Due October 7th.\n\n" +
+        "Assignment #2 Due October 14th.\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
-        "Assignment #1 Due October 8th (Thursday)\n " +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
+        "Assignment #1 Due October 8th (Thursday)\n " +
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
     );
   } else if (command === "help") {
