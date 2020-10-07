@@ -24,17 +24,17 @@ client.on("message", (message) => {
         "__**JAVA PROGRAMMING:**__\n" +
         "Lab 4 (Convert Celsius to Fahrenheit) Due October 8th.\n" +
         "Lab 5 (Compute Volume of a Cylinder) Due October 8th.\n" +
-        "Lab 6 (Sum the digits in an Integer) Due October 8th.\n" +
+        "Lab 6 (Sum the digits in an Integer) Due October 8th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Mobile Panini Due October 9th.\n" +
         "Dianes Run Due October 16th. \n" +
         "Quiz 2 Due October 18th.\n" +
         "Quiz 3 Due October 18th.\n" +
-        "Quiz 4 Due October 18th.\n" +
+        "Quiz 4 Due October 18th.\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "Assignment #2 Due October 14th.\n" +
+        "Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         "Quiz #3 Due Friday October 9th" +
