@@ -36,7 +36,7 @@ client.on("message", (message) => {
         "__**DATA FUNDEMENTALS:**__\n" +
         "Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n\n" +
+        "__**INTRO TO PROGRAMMING:**__\n" +
         "Quiz #3 Due Friday October 9th" +
         "Control Flow Assignments #1 AND #2 Due Monday October 12th\n\n" +
         // GRAPHIC DESIGN
