@@ -22,13 +22,12 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-        "Lab 4 (Convert Celsius to Fahrenheit) Due October 8th.\n" +
-        "Lab 5 (Compute Volume of a Cylinder) Due October 8th.\n" +
-        "Lab 6 (Sum the digits in an Integer) Due October 8th.\n\n" +
+        "TEST #1 October 15th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Mobile Panini Due October 9th.\n" +
         "Dianes Run Due October 16th. \n" +
+        "Quiz 1 Due October 18th.\n" +
         "Quiz 2 Due October 18th.\n" +
         "Quiz 3 Due October 18th.\n" +
         "Quiz 4 Due October 18th.\n\n" +
