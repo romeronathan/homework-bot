@@ -25,7 +25,6 @@ client.on("message", (message) => {
         "TEST #1 October 15th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Mobile Panini Due October 9th.\n" +
         "Dianes Run Due October 16th. \n" +
         "Quiz 1 Due October 18th.\n" +
         "Quiz 2 Due October 18th.\n" +
@@ -36,11 +35,9 @@ client.on("message", (message) => {
         "Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "Quiz #3 Due Friday October 9th\n" +
         "Control Flow Assignments #1 AND #2 Due Tuesday October 13th\n\n" +
         // GRAPHIC DESIGN
-        "__**GRAPHIC DESIGN:**__\n" +
-        "Assignment #1 Due October 8th (Thursday)\n\n" +
+        "__**GRAPHIC DESIGN:**__\n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
     );
