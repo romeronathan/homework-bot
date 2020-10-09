@@ -5,7 +5,6 @@ const prefix = "!";
 
 client.once("ready", () => {
   console.log("Connected as  + ${client.user.tag}");
-
   client.user.setActivity("with Javascript");
   
 });
