@@ -30,7 +30,10 @@ client.on("message", (message) => {
         "Quiz 1 Due October 18th.\n" +
         "Quiz 2 Due October 18th.\n" +
         "Quiz 3 Due October 18th.\n" +
-        "Quiz 4 Due October 18th.\n\n" +
+        "Quiz 4 Due October 18th.\n" +
+        "Tri And Succeed Sports Due October 23rd. \n" +
+        "Meet Our Coaches Due Due October 30th. \n\n" +
+      
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
         "Quiz #1 Due October 10th. \n" +
