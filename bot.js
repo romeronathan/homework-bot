@@ -39,7 +39,7 @@ client.on("message", (message) => {
         "Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "Control Flow Assignments #1 AND #2 Due Tuesday October 13th\n\n" +
+        "Control Flow Assignments 1 & 2 Tuesday October 13th\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
         // LAW AND ETHICS
