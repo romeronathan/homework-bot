@@ -43,7 +43,8 @@ client.on("message", (message) => {
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
         // LAW AND ETHICS
-        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__"
+        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
+        "Watch this doc => https://www.youtube.com/watch?v=RVVfJVj5z8s&t=2103s"
     );
   } else if (command === "help") {
     message.channel.send(
