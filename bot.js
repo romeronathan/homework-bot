@@ -22,7 +22,6 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-        "TEST #1 October 15th.\n" +
         "Labs #7 AND #8 Due October 22nd.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
@@ -36,10 +35,10 @@ client.on("message", (message) => {
       
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "Assignment #2 Due October 14th.\n\n" +
+        //"Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "Control Flow Assignments 1 & 2 Tuesday October 13th\n\n" +
+        //"Control Flow Assignments 1 & 2 Tuesday October 13th\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
         // LAW AND ETHICS
@@ -81,6 +80,30 @@ client.on("message", (message) => {
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43102_1&mode=view"
+    );
+  } //list off upcoming tests
+  else if (command === "tests") {
+    message.channel.send(
+      "***Upcoming Tests***\n" +
+        // Java
+        "__**JAVA PROGRAMMING:**__\n" +
+        "THURSDAY OCTOBER 15TH.\n" +
+        "\n\n" +
+        //HTML AND CSS
+        "__**HTML AND CSS: **__\n" +
+        "\n\n" +
+        //DATA FUNDEMENTALS
+        "__**DATA FUNDEMENTALS:**__\n" +
+        "MONDAY OCTOBER 19TH - FRIDAY OCTOBER 23RD.\n\n" +
+        //INTRO TO PROGRAMMING
+        "__**INTRO TO PROGRAMMING:**__\n" +
+        "FRIDAY OCTOBER 23RD.\n\n" +
+        //GRAPHIC DESIGN
+        "_**GRAPHIC DESIGN**_\n" +
+        "\n\n" +
+        // AW AND ETHICS IN THE DIGITAL
+        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
+        ""
     );
   }
   //CountDown
