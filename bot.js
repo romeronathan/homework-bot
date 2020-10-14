@@ -38,9 +38,9 @@ client.on("message", (message) => {
         //"Assignment #2 Due October 14th.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-         "Quiz 4 - October 16\n"
-         "Control Flow #3 - Monday, October 19th\n"
-         "Control Flow #4 - Monday, October 19th\n\n"
+         "Quiz 4 - October 16\n" +
+         "Control Flow #3 - Monday, October 19th\n" +
+         "Control Flow #4 - Monday, October 19th\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
         // LAW AND ETHICS
@@ -146,12 +146,7 @@ client.on("message", (message) => {
       message.channel.send("tails");
     }
   }
-  // 420 blaze it
-  else if (command === "420blazeit") {
-    message.channel.send(
-      "https://cdn.drawception.com/images/panels/2015/3-16/tL5q6W5WOE-2.png"
-    );
-  } // Egirl
+   // Egirl
   else if (command === "egirl") {
     message.channel.send("Sorry, did you mean Brooke?");
   } // Toby
