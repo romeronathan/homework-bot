@@ -88,19 +88,19 @@ client.on("message", (message) => {
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
         "THURSDAY OCTOBER 15TH.\n" +
-        "\n\n" +
+        "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "\n\n" +
+        "\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
         "MONDAY OCTOBER 19TH - FRIDAY OCTOBER 23RD.\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "FRIDAY OCTOBER 23RD.\n\n" +
+        "FRIDAY OCTOBER 23RD.\n" +
         //GRAPHIC DESIGN
         "_**GRAPHIC DESIGN**_\n" +
-        "\n\n" +
+        "\n" +
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         ""
