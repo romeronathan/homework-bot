@@ -25,17 +25,13 @@ client.on("message", (message) => {
         "Labs #7 AND #8 Due October 22nd.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Dianes Run Due October 16th. \n" +
-        "Quiz 1 Due October 18th.\n" +
-        "Quiz 2 Due October 18th.\n" +
-        "Quiz 3 Due October 18th.\n" +
-        "Quiz 4 Due October 18th.\n" +
+        "Quiz 6 Due November 1st.\n" +
+        "Quiz 7 Due November 1st.\n" +
         "Tri And Succeed Sports Due October 23rd. \n" +
         "Meet Our Coaches Due Due October 30th. \n\n" +
       
         //DATA FUNDEMENTALS
-        "__**DATA FUNDEMENTALS:**__\n" +
-        "Quiz #2 Due October 17th.\n\n" +
+        "__**DATA FUNDEMENTALS:**__\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
          "Quiz 4 - October 16th\n" +
@@ -88,8 +84,7 @@ client.on("message", (message) => {
     message.channel.send(
       "***Upcoming Tests***\n" +
         // Java
-        "__**JAVA PROGRAMMING:**__\n" +
-        "THURSDAY OCTOBER 15TH.\n" +
+        "__**JAVA PROGRAMMING:**__\n\n" +
         "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
