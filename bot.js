@@ -34,11 +34,10 @@ client.on("message", (message) => {
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
         //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n" +
-         "Control Flow #3 - Monday, October 19th\n" +
-         "Control Flow #4 - Monday, October 19th\n\n" +
+        "__**INTRO TO PROGRAMMING:**__\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n\n" +
+        "Assignment#2 Due Friday October 23rd. \n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" 
        
@@ -48,6 +47,7 @@ client.on("message", (message) => {
       "***Command List (for now)***\n" +
         "!homework\n" +
         "!lectures\n" +
+        "!tests\n" +
         "!flip\n" +
         "!countdown\n" +
         "!toby\n" +
