@@ -22,14 +22,12 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-        "Labs #7 AND #8 Due October 22nd.\n" +
        "Labs #9 #10 #11 Due October 29th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Quiz 5 Due November 1st.\n" +
         "Quiz 6 Due November 1st.\n" +
         "Quiz 7 Due November 1st.\n" +
-        "Tri And Succeed Sports Due October 23rd. \n" +
         "Meet Our Coaches Due Due October 30th. \n\n" +
       
         //DATA FUNDEMENTALS
@@ -38,7 +36,6 @@ client.on("message", (message) => {
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "Assignment#2 Due Friday October 23rd. \n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" 
        
