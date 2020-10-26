@@ -25,7 +25,6 @@ client.on("message", (message) => {
        "Labs #9 #10 #11 Due October 29th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Quiz 5 Due November 1st.\n" +
         "Quiz 6 Due November 1st.\n" +
         "Quiz 7 Due November 1st.\n" +
         "Meet Our Coaches Due Due October 30th. \n\n" +
