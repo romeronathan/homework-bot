@@ -86,15 +86,15 @@ client.on("message", (message) => {
         "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "MIDTERM TEST Due October 27th\n\n" +
+        "\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "MONDAY OCTOBER 19TH - FRIDAY OCTOBER 23RD.\n\n" +
+        "\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "FRIDAY OCTOBER 23RD.\n" +
+        "\n" +
         //GRAPHIC DESIGN
-        "_**GRAPHIC DESIGN**_\n" +
+        "__**GRAPHIC DESIGN**__\n" +
         "\n" +
         // AW AND ETHICS IN THE DIGITAL
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
