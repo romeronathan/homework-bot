@@ -85,7 +85,7 @@ client.on("message", (message) => {
         "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "\n" +
+        "TEST 3 DUE OCTOBER 27TH\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
         "\n" +
