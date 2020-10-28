@@ -35,7 +35,7 @@ client.on("message", (message) => {
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "Midterm Assignment Due Sunday Nov 1st \n\n"
+        "Midterm Assignment Due Sunday Nov 1st \n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" 
        
