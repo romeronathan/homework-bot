@@ -34,8 +34,8 @@ client.on("message", (message) => {
         "Assignment #3 Due Nov 4th \n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
-        "Quiz 5 Due October 30th\n"
-        "Modular Design Due Nov 2nd\n\n"
+        "Quiz 5 Due October 30th\n" +
+        "Modular Design Due Nov 2nd\n\n" +
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "Midterm Assignment Due Sunday Nov 1st \n\n" +
