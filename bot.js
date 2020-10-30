@@ -40,7 +40,8 @@ client.on("message", (message) => {
         "__**GRAPHIC DESIGN:**__\n" +
         "Midterm Assignment Due Sunday Nov 1st \n\n" +
         // LAW AND ETHICS
-        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" 
+        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
+      "Case Study Due November 30th"
        
     );
   } else if (command === "help") {
