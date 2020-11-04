@@ -25,11 +25,11 @@ client.on("message", (message) => {
        "Labs #12 and #13 Due Nov 5th.\n\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "\n\n" +
-      
+        "Tutorial 3 due nov 13th\n\n" +
+        "Coding challenges due nov 20th\n\n"
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "Assignment #3 Due Nov 4th \n\n" +
+        "\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         "\n\n" +    
