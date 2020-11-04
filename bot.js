@@ -26,10 +26,10 @@ client.on("message", (message) => {
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Tutorial 3 due nov 13th\n\n" +
-        "Coding challenges due nov 20th\n\n"
+        "Coding challenges due nov 20th\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "\nAssignmnet due nov 11th\n" +
+        "\nAssignment due nov 11th\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         "\n\n" +    
