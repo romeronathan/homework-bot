@@ -83,8 +83,8 @@ client.on("message", (message) => {
     message.channel.send(
       "***Upcoming Tests***\n" +
         // Java
-        "__**JAVA PROGRAMMING:**__\n\n" +
-        "Midterm #2 Thursday November 12th(not confrimed)\n" +
+        "__**JAVA PROGRAMMING:**__\nMidterm #2 Thursday November 12th\n" +
+        "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "\n" +
@@ -93,7 +93,7 @@ client.on("message", (message) => {
         "\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "Quiz almost every friday\n" +
+        "\n" +
         //GRAPHIC DESIGN
         "__**GRAPHIC DESIGN**__\n" +
         "\n" +
