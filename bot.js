@@ -90,7 +90,7 @@ client.on("message", (message) => {
         "\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "\n" +
+        "Quiz 3 due nov 7th\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
         "\n" +
