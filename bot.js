@@ -84,7 +84,7 @@ client.on("message", (message) => {
       "***Upcoming Tests***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n\n" +
-        "\n" +
+        "Midterm #2 Thursday November 12th(not confrimed)\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "\n" +
@@ -93,7 +93,7 @@ client.on("message", (message) => {
         "\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "\n" +
+        "Quiz almost every friday\n" +
         //GRAPHIC DESIGN
         "__**GRAPHIC DESIGN**__\n" +
         "\n" +
