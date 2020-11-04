@@ -29,7 +29,7 @@ client.on("message", (message) => {
         "Coding challenges due nov 20th\n\n"
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "\n\n" +
+        "\nAssignmnet due nov 11th\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         "\n\n" +    
