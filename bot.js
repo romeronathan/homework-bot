@@ -22,17 +22,17 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-       "Labs #12 and #13 Due Nov 5th.\n\n" +
+       "Labs #12 and #13 Due Nov 5th\nLabs #14 #15 #16 Nov 19th\n"+
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Tutorial 3 due nov 13th\n\n" +
         "Coding challenges due nov 20th\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "\nAssignment due nov 11th\n" +
+        "Assignment due nov 11th\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
-        "\n\n" +    
+        "module 3 & 4 due Nov 9th\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "\n\n" +
@@ -83,8 +83,8 @@ client.on("message", (message) => {
     message.channel.send(
       "***Upcoming Tests***\n" +
         // Java
-        "__**JAVA PROGRAMMING:**__\nMidterm #2 Thursday November 12th\n" +
-        "\n" +
+        "__**JAVA PROGRAMMING:**__\n\n" +
+        "Midterm #2 Thursday November 12th\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "\n" +
