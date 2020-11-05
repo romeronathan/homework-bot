@@ -93,7 +93,7 @@ client.on("message", (message) => {
         "Quiz 3 due nov 7th\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "\n" +
+        "Quiz every Friday\n" +
         //GRAPHIC DESIGN
         "__**GRAPHIC DESIGN**__\n" +
         "\n" +
