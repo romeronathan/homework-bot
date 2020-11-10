@@ -35,7 +35,7 @@ client.on("message", (message) => {
         "module 3 & 4 due Nov 9th\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "\n\n" +
+        "\nThursday, November 12, 2020 6:00 PM\n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
       "Case Study Due November 30th"
