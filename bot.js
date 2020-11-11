@@ -29,10 +29,10 @@ client.on("message", (message) => {
         "Coding challenges due nov 20th\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "Assignment due nov 11th\n\n" +
+        "Assignment 5: 11/18/2020 10:00 AM\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
-        "module 3 & 4 due Nov 9th\n\n" +    
+        "Collection Types 1: 11/16/2020 11:59 PM\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "\nThursday, November 12, 2020 6:00 PM\n\n" +
