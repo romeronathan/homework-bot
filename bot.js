@@ -22,20 +22,20 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-       "\nLabs #14 #15 #16 Nov 19th\n"+
+       "\nLab #19 Nov 26th 10:00 AM\n"+
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "\nHTML due: tutorial 7, spice bowl, code challenge due nov 20th\n" +
-        "Coding challenges due nov 20th\n\n" +
+        "\nQuiz #8 & #9 Nov 29th Midnight\n" +
+        "Code Challenge #1  Nov 27th\n\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n\n" +
-        "Assignment 5: 11/18/2020 10:00 AM\n\n" +
+        "Assignment 6: Nov 25th 10:00 AM\n\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n\n" +
         "\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "\nThursday, November 12, 2020 6:00 PM\n\n" +
+        "\n\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
       "Case Study Due November 30th"
