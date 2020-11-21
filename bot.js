@@ -116,14 +116,14 @@ client.on("message", (message) => {
           "\n__**DATA FUNDEMENTALS:**__\n" +
           "\nReleased Monday December 14th 9:00AM - Due Thursday December 17th 5:00PM\n" +
           //INTRO TO PROGRAMMING
-          "\n__**INTRO TO PROGRAMMING:**__\n\n" +
+          "\n__**INTRO TO PROGRAMMING:**__\n" +
           "\nFriday December 18th 10:00AM-11:15AM\n" +    
           // GRAPHIC DESIGN
           "\n__**GRAPHIC DESIGN:**__\n" +
           "\nReleased Tuesday December 15th 11:00AM - Due Tuesday December 15th at Midnight\n" +
           // LAW AND ETHICS
           "\n__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-        "Tuesday December 15th 9:00AM-12:00PM"
+        "\nTuesday December 15th 9:00AM-12:00PM\n"
     );
   }
   //CountDown
