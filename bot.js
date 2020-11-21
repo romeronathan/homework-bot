@@ -110,19 +110,19 @@ client.on("message", (message) => {
           "__**JAVA PROGRAMMING:**__\n" +
          "\nMonday December 14th 1:00PM-4:00PM\n"+
           //HTML AND CSS
-          "__**HTML AND CSS: **__\n" +
+          "\n__**HTML AND CSS: **__\n" +
           "\nReleased Monday December 13th - Due Tuesday December 15th 11:59PM\n" +
           //DATA FUNDEMENTALS
-          "__**DATA FUNDEMENTALS:**__\n\n" +
+          "\n__**DATA FUNDEMENTALS:**__\n" +
           "\nReleased Monday December 14th 9:00AM - Due Thursday December 17th 5:00PM\n" +
           //INTRO TO PROGRAMMING
-          "__**INTRO TO PROGRAMMING:**__\n\n" +
+          "\n__**INTRO TO PROGRAMMING:**__\n\n" +
           "\nFriday December 18th 10:00AM-11:15AM\n" +    
           // GRAPHIC DESIGN
-          "__**GRAPHIC DESIGN:**__\n" +
+          "\n__**GRAPHIC DESIGN:**__\n" +
           "\nReleased Tuesday December 15th 11:00AM - Due Tuesday December 15th at Midnight\n" +
           // LAW AND ETHICS
-          "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
+          "\n__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "Tuesday December 15th 9:00AM-12:00PM"
     );
   }
