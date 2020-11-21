@@ -91,10 +91,10 @@ client.on("message", (message) => {
         "\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "Quiz 3 due nov 7th\n" +
+        "Test #2 Released Monday November 23rd - Due November 27th 10:00AM\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "Test Nov 20th\nQuiz every Friday\n" +
+        "\nQuiz every Friday\n" +
         //GRAPHIC DESIGN
         "__**GRAPHIC DESIGN**__\n" +
         "\n" +
