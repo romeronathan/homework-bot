@@ -19,25 +19,25 @@ client.on("message", (message) => {
   // List off homework due
   if (command === "homework") {
     message.channel.send(
-      "***Homework Due:***\n" +
+      "***Homework Due:***\n\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
        "\nLab #19 Nov 26th 10:00 AM\n"+
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "\nQuiz #8 & #9 Nov 29th Midnight\n" +
-        "Tutorial 7, Spice Bowl, Code Challenge #1  Nov 27th\n\n" +
+        "Tutorial 7, Spice Bowl, Code Challenge #1  Nov 27th\n" +
         "Tutorial 6 (Pg 451-495) Dec 4th\n" +
         "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
         //DATA FUNDEMENTALS
-        "__**DATA FUNDEMENTALS:**__\n\n" +
-        "Assignment 6: Nov 25th 10:00 AM\n\n" +
+        "__**DATA FUNDEMENTALS:**__\n" +
+        "Assignment 6: Nov 25th 10:00 AM\n" +
         //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n\n" +
+        "__**INTRO TO PROGRAMMING:**__\n" +
         "\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "\n\n" +
+        "\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
       "Case Study Due November 30th"
