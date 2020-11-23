@@ -164,6 +164,9 @@ client.on("message", (message) => {
       message.channel.send("tails");
     }
   }
+  else if (command === "josh") {
+    message.channel.send("Don't let Josh meet your mom");
+  }
    // Egirl
   else if (command === "egirl") {
     message.channel.send("Sorry, did you mean Brooke?");
