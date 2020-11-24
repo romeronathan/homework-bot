@@ -37,7 +37,7 @@ client.on("message", (message) => {
         "\n\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
-        "\n" +
+        "Assignment #4 Nov 26th 6:00 PM\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
       "Case Study Due November 30th"
