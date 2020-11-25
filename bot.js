@@ -113,7 +113,7 @@ client.on("message", (message) => {
          "\nMonday December 14th 1:00PM-4:00PM\n"+
           //HTML AND CSS
           "\n__**HTML AND CSS: **__\n" +
-          "\nReleased Sunday December 13th - Due Tuesday December 15th 11:59PM\n" +
+          "\nReleased Sunday December 13th (3:00AM-6:00AM) - Due Tuesday December 15th 11:59PM\n" +
           //DATA FUNDEMENTALS
           "\n__**DATA FUNDEMENTALS:**__\n" +
           "\nReleased Monday December 14th 9:00AM - Due Thursday December 17th 5:00PM\n" +
