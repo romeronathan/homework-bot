@@ -23,6 +23,7 @@ client.on("message", (message) => {
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
        "\nLab #19 Dec 3rd 10:00 AM\n"+
+       "\nLab #20, #21 & #22 Dec 3rd 10:00 AM\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "\nQuiz #8 & #9 Nov 29th Midnight\n" +
