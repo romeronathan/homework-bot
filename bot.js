@@ -35,13 +35,13 @@ client.on("message", (message) => {
         "\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "\n\n" +    
+        "Collection Types 2 Nov 30th\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-      "Case Study Due November 30th"
+      "Case Study Due November 30th orn Dec 4th if you email Ryan"
        
     );
   } else if (command === "help") {
