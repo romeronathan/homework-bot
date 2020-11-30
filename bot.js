@@ -26,8 +26,6 @@ client.on("message", (message) => {
        "\nLab #20, #21 & #22 Dec 3rd 10:00 AM\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "\nQuiz #8 & #9 Nov 29th Midnight\n" +
-        "Tutorial 7, Spice Bowl, Code Challenge #1  Nov 27th\n" +
         "Tutorial 6 (Pg 451-495) Dec 4th\n" +
         "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
         //DATA FUNDEMENTALS
@@ -94,7 +92,6 @@ client.on("message", (message) => {
         "\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "Test #2 Released Monday November 23rd - Due November 27th 10:00AM\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
         "\nQuiz every Friday\n" +
