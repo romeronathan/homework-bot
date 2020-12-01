@@ -120,7 +120,7 @@ client.on("message", (message) => {
           "\nFriday December 18th 10:00AM-11:15AM\n" +    
           // GRAPHIC DESIGN
           "\n__**GRAPHIC DESIGN:**__\n" +
-          "\nReleased Tuesday December 15th 11:00AM - Due Tuesday December 15th at Midnight\n" +
+          "\nReleased Tuesday December 8th 11:00AM - Due Tuesday December 15th at Midnight\n" +
           // LAW AND ETHICS
           "\n__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "\nTuesday December 15th 9:00AM-12:00PM\n"
