@@ -30,10 +30,10 @@ client.on("message", (message) => {
         "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "\n" +
+        "Assignment #7 Dec 9th 10:30 AM\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "\n" +    
+        "OOP #1 & OOP #2 Dec 7th 11:59 PM\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "\n" +
