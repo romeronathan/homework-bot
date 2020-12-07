@@ -22,10 +22,9 @@ client.on("message", (message) => {
       "***Homework Due:***\n\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-       "\nLab 21 - ArrayList Dec 11th 10:00AM\n" +
+       "\nLab 21 - ArrayList Dec 10th 10:00AM\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
-        "Tutorial 6 (Pg 451-495) Dec 4th\n" +
         "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
@@ -38,7 +37,7 @@ client.on("message", (message) => {
         "\n" +
         // LAW AND ETHICS
         "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-      "Case Study Due Dec 4th if you email Ryan"
+      "\n"
        
     );
   } else if (command === "help") {
