@@ -31,7 +31,7 @@ client.on("message", (message) => {
         "\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
-        "\n" +    
+        "OOP 3 & 4 Dec 11th 11:59PM\n" +    
         // GRAPHIC DESIGN
         "__**GRAPHIC DESIGN:**__\n" +
         "\n" +
