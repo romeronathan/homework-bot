@@ -22,13 +22,14 @@ client.on("message", (message) => {
       "***Homework Due:***\n\n" +
         // Java
         "__**JAVA PROGRAMMING:**__\n" +
-       "\nLab 21 - ArrayList Dec 10th 10:00AM\n" +
+       "\n" +
         //HTML AND CSS
         "__**HTML AND CSS: **__\n" +
         "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
         //DATA FUNDEMENTALS
         "__**DATA FUNDEMENTALS:**__\n" +
-        "\n" +
+        "Final Assignment/ Review unknown\n" +
+        "Quiz 5 Dec 11th\n" +
         //INTRO TO PROGRAMMING
         "__**INTRO TO PROGRAMMING:**__\n" +
         "OOP 3 & 4 Dec 11th 11:59PM\n" +    
@@ -106,7 +107,7 @@ client.on("message", (message) => {
         "***Finals Schedule***\n" +
             // Java
           "__**JAVA PROGRAMMING:**__\n" +
-         "\nMonday December 14th 1:00PM-4:00PM\n"+
+         "\nMonday December 14th 1:00PM-2:05PM\n"+
           //HTML AND CSS
           "\n__**HTML AND CSS: **__\n" +
           "\nReleased Sunday December 13th (3:00AM-6:00AM) - Due Tuesday December 15th 11:59PM\n" +
@@ -118,7 +119,7 @@ client.on("message", (message) => {
           "\nFriday December 18th 10:00AM-11:15AM\n" +    
           // GRAPHIC DESIGN
           "\n__**GRAPHIC DESIGN:**__\n" +
-          "\nReleased Tuesday December 8th 11:00AM - Due Tuesday December 15th at Midnight\n" +
+          "\nDue Tuesday December 15th at Midnight\n" +
           // LAW AND ETHICS
           "\n__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
         "\nTuesday December 15th 9:00AM-12:00PM\n"
