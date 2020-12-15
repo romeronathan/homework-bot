@@ -21,24 +21,20 @@ client.on("message", (message) => {
     message.channel.send(
       "***Homework Due:***\n\n" +
         // Java
-        "__**JAVA PROGRAMMING:**__\n" +
+        "__**JAVA PROGRAMMING II:**__\n" +
        "\n" +
-        //HTML AND CSS
-        "__**HTML AND CSS: **__\n" +
-        "Quiz #10 & Review Assignment (Pg 510-511) Dec 11th\n" +
-        //DATA FUNDEMENTALS
-        "__**DATA FUNDEMENTALS:**__\n" +
-        "Final Assignment/ Review unknown\n" +
-        "Quiz 5 Dec 11th\n" +
-        //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n" +
-        "OOP 3 & 4 Dec 11th 11:59PM\n" +    
-        // GRAPHIC DESIGN
-        "__**GRAPHIC DESIGN:**__\n" +
+        //CSS
+        "__**Web Design/CSS: **__\n" +
         "\n" +
-        // LAW AND ETHICS
-        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-      "\n"
+        //PHP
+        "__**PHP Basics:**__\n" +
+        "\n" +
+        //Javascript
+        "__**JAVASCRIPT I:**__\n" +
+        "\n" +    
+        //Android Development
+        "__**Android Development I:**__\n" +
+        "\n" 
        
     );
   } else if (command === "help") {
@@ -59,25 +55,22 @@ client.on("message", (message) => {
   else if (command === "lectures") {
     message.channel.send(
       "***Lecture Links***\n" +
-        // Java
-        "__**JAVA PROGRAMMING:**__\n" +
-        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43173_1&mode=view\n" +
+        //Java
+        "__**JAVA PROGRAMMING II:**__\n" +
+        "N/A\n" +
         "\n\n" +
-        //HTML AND CSS
-        "__**HTML AND CSS: **__\n" +
-        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42067_1&mode=view\n\n" +
-        //DATA FUNDEMENTALS
-        "__**DATA FUNDEMENTALS:**__\n" +
-        "\n\n" +
-        //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n" +
-        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_42029_1&mode=view\n\n" +
-        //GRAPHIC DESIGN
-        "_**GRAPHIC DESIGN**_\n" +
-        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43101_1\n\n" +
-        // AW AND ETHICS IN THE DIGITAL
-        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-        "https://lms.stclaircollege.ca/webapps/collab-ultra/tool/collabultra?course_id=_43102_1&mode=view"
+        //CSS
+        "__**Web Design/CSS: **__\n" +
+        "N/A\n\n" +
+        //PHP
+        "__**PHP Basics:**__\n" +
+        "N/A\n\n" +
+        //Javascript
+        "__**JAVASCRIPT I:**__\n" +
+        "N/A\n\n" +
+        //Android Development 
+        "_**Android Development I:**_\n" +
+        "N/A\n\n" 
     );
   } //list off upcoming tests
   else if (command === "tests") {
