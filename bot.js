@@ -77,47 +77,43 @@ client.on("message", (message) => {
     message.channel.send(
       "***Upcoming Tests***\n" +
         // Java
-        "__**JAVA PROGRAMMING:**__\n\n" +
+        "__**JAVA PROGRAMMING II:**__\n\n" +
         "\n" +
-        //HTML AND CSS
-        "__**HTML AND CSS: **__\n" +
+        //CSS
+        "__**Web Design/CSS: **__\n" +
         "\n" +
-        //DATA FUNDEMENTALS
-        "__**DATA FUNDEMENTALS:**__\n" +
-        //INTRO TO PROGRAMMING
-        "__**INTRO TO PROGRAMMING:**__\n" +
-        "\nQuiz every Friday\n" +
-        //GRAPHIC DESIGN
-        "__**GRAPHIC DESIGN**__\n" +
+        //PHP
+        "__**PHP Basics:**__\n" +
         "\n" +
-        // AW AND ETHICS IN THE DIGITAL
-        "__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-        ""
+        //JAVASCRIPT
+        "__**JAVASCRIPT I:**__\n" +
+        "\n" +
+        //Android
+        "__**Android Development I:**__\n" +
+        "\n" 
     );
   } 
-    else if (command === "finals") {
-      message.channel.send(
-        "***Finals Schedule***\n" +
-            // Java
-          "__**JAVA PROGRAMMING:**__\n" +
-         "\nMonday December 14th 1:00PM-2:05PM\n"+
-          //HTML AND CSS
-          "\n__**HTML AND CSS: **__\n" +
-          "\nReleased Sunday December 13th (3:00AM-6:00AM) - Due Tuesday December 15th 11:59PM\n" +
-          //DATA FUNDEMENTALS
-          "\n__**DATA FUNDEMENTALS:**__\n" +
-          "\nReleased Monday December 14th 9:00AM - Due Thursday December 17th 5:00PM\n" +
-          //INTRO TO PROGRAMMING
-          "\n__**INTRO TO PROGRAMMING:**__\n" +
-          "\nFriday December 18th 10:00AM-11:15AM\n" +    
-          // GRAPHIC DESIGN
-          "\n__**GRAPHIC DESIGN:**__\n" +
-          "\nDue Tuesday December 15th at Midnight\n" +
-          // LAW AND ETHICS
-          "\n__**LAWS AND ETHICS IN THE DIGITAL AGE: **__\n" +
-        "\nTuesday December 15th 9:00AM-12:00PM\n"
-    );
-  }
+      //Finals Schedule
+//     else if (command === "finals") {
+//       message.channel.send(
+//         "***Finals Schedule***\n" +
+//             // Java
+//           "__**JAVA PROGRAMMING II:**__\n" +
+//          "\n\n"+
+//           //CSS
+//           "\n__**Web Design/CSS: **__\n" +
+//           "\n\n" +
+//           //PHP
+//           "\n__**PHP Basics:**__\n" +
+//           "\n\n" +
+//           //Javascript
+//           "\n__**JAVASCRIPT I:**__\n" +
+//           "\n\n" +    
+//           //Android
+//           "\n__**Android Development I:**__\n" +
+//           "\n\n"
+//     );
+//   }
   //CountDown
   else if (content[0] == "!countdown") {
     // Set interval on getting numb value
