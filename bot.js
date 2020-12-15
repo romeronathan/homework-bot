@@ -43,7 +43,7 @@ client.on("message", (message) => {
         "!homework\n" +
         "!lectures\n" +
         "!tests\n" +
-        "!finals\n" +
+        //"!finals\n" +
         "!flip\n" +
         "!countdown\n" +
         "!toby\n" +
@@ -77,7 +77,7 @@ client.on("message", (message) => {
     message.channel.send(
       "***Upcoming Tests***\n" +
         // Java
-        "__**JAVA PROGRAMMING II:**__\n\n" +
+        "__**JAVA PROGRAMMING II:**__\n" +
         "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
