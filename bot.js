@@ -42,6 +42,7 @@ client.on("message", (message) => {
       "***Command List (for now)***\n" +
         "!homework\n" +
         "!lectures\n" +
+        "!schedule" +
         "!tests\n" +
         //"!finals\n" +
         "!flip\n" +
@@ -114,6 +115,10 @@ client.on("message", (message) => {
 //           "\n\n"
 //     );
 //   }
+    else if (command === "schedule") {
+      message.channel.send(
+        "https://media.discordapp.net/attachments/759615840684867584/788088015233744936/unknown.png"
+      );
   //CountDown
   else if (content[0] == "!countdown") {
     // Set interval on getting numb value
@@ -155,6 +160,7 @@ client.on("message", (message) => {
   else if (command === "josh") {
     message.channel.send("Don't let Josh meet your mom");
   }
+
    // Egirl
   else if (command === "egirl") {
     message.channel.send("Sorry, did you mean Brooke?");
