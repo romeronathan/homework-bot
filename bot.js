@@ -119,6 +119,7 @@ client.on("message", (message) => {
       message.channel.send(
         "https://media.discordapp.net/attachments/759615840684867584/788088015233744936/unknown.png"
       );
+    }
   //CountDown
   else if (content[0] == "!countdown") {
     // Set interval on getting numb value
