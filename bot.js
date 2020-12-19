@@ -42,7 +42,7 @@ client.on("message", (message) => {
       "***Command List (for now)***\n" +
         "!homework\n" +
         "!lectures\n" +
-        "!schedule" +
+        "!schedule\n" +
         "!tests\n" +
         //"!finals\n" +
         "!flip\n" +
