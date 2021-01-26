@@ -22,23 +22,23 @@ client.on("message", (message) => {
       "***Homework Due:***\n\n" +
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
-      "a lot" +
+      "yesterday" +
        "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       " a little bit due yesterday" +
-        "\n" +
+        "Wednesday January 27\n" +
         //PHP
         "__**PHP Basics:**__\n" +
-      "yes" +
+      "friday" +
         "\n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" +
-      "green" +
+      "next monday" +
         "\n" +    
         //Android Development
         "__**Android Development I:**__\n" +
-        "\n" 
+        "shouldve been done 10 minutes after class\n" 
        
     );
   } else if (command === "help") {
