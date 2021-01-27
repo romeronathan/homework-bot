@@ -19,7 +19,7 @@ client.on("message", (message) => {
   // List off homework due
   if (command === "homework") {
     message.channel.send(
-      "```***Homework Due:***\n" +
+      "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
       "Lab 3: Menu Options due Feb 2nd" +
@@ -38,7 +38,7 @@ client.on("message", (message) => {
         "Module 1 Quiz due Jan 29th \n" +    
         //Android Development
         "__**Android Development I:**__\n" +
-        "Assignment 1 due Jan 29th \n ```"     
+        "Assignment 1 due Jan 29th \n"     
     );
   } else if (command === "help") {
     message.channel.send(
