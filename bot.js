@@ -23,10 +23,10 @@ client.on("message", (message) => {
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
       "Lab 3: Menu Options <strong> due </strong> Feb 2nd" +
-       "\n" +
+       "\n" 
         //CSS
         "__**Web Design/CSS: **__\n" +
-      " Assignment 2" +
+      " Assignment 2" + "\n"
         //PHP
         "__**PHP Basics:**__\n" +
       "friday" +
