@@ -22,23 +22,25 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
-      "Lab 3: Menu Options due Feb 2nd" +
+      "No Assignments this week \n" +
        "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       "Assignment 2 due Feb 3rd \n" +
-        "Quizzes due Every Friday \n" +
+      "Assignment 3 due Feb 10th \n" +
+      "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" +
-      "Module 3 due Jan 29th \n" +
-        "Quiz 1 & 2 due Jan 31 \n" +
+      "Module 4 & 5 due Feb 5th \n" +
+       "Quiz due Feb 14th \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" +
-      "1B Assignment due Feb 1st \n" +
-        "Module 1 Quiz due Jan 29th \n" +    
+      "2A Assignment due Feb 8th \n" +
+      "2B Assignment due Feb 16th \n" +
+       "Module 2 Quiz due Feb 12th \n" +    
         //Android Development
         "__**Android Development I:**__\n" +
-        "Assignment 1 due Jan 29th \n"     
+        "Assignment 2 due Feb 5th \n"     
     );
   } else if (command === "help") {
     message.channel.send(
