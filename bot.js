@@ -5,7 +5,7 @@ const prefix = "!";
 
 client.once("ready", () => {
   console.log("Connected as  + ${client.user.tag}");
-  client.user.setActivity("with Javascript");
+  client.user.setActivity("with the MAD Club");
   
 });
 
@@ -21,7 +21,7 @@ client.on("message", (message) => {
     message.channel.send(
       "***Homework Due:***\n" +
         // Java
-        "__**JAVA PROGRAMMING II:**__\n" +
+        "__**JAVA PROGRAMMING II:** :intelliJ:__\n" +
       "Lab 4 - 6 due Feb 16th \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
