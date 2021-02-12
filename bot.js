@@ -21,7 +21,7 @@ client.on("message", (message) => {
     message.channel.send(
       "***Homework Due:***\n" +
         // Java
-        "__**JAVA PROGRAMMING II:**__ :intelliJ:\n" +
+        "__**JAVA PROGRAMMING II:**__\n" +
       "Lab 4 - 6 due Feb 16th \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
