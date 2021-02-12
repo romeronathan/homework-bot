@@ -40,7 +40,7 @@ client.on("message", (message) => {
        "Module 2 Quiz due Feb 12th \n" +    
         //Android Development
         "__**Android Development I:**__\n" +
-        "Labs 8-10 due Feb 12th \n"     
+        "Labs 11-13 due Feb 19th \n"     
     );
   } else if (command === "help") {
     message.channel.send(
