@@ -25,17 +25,17 @@ client.on("message", (message) => {
       "Lab 4 - 6 due Feb 16th \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
-      "Assignment 3 due Feb 10th \n" +
+      "Assignment 4 due Feb 17th \n" +
       "Portfolio Draft due Feb 19th \n" +
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" +
       "Module 6 due Feb 12th \n" +
+      "Module 7 due Feb 19th \n" +
       "Quiz 4 + 5 due Feb 14th \n" +
       "Quiz 6 due Feb 21st \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" +
-      "2A Assignment due Feb 8th \n" +
       "2B Assignment due Feb 16th \n" +
        "Module 2 Quiz due Feb 12th \n" +    
         //Android Development
