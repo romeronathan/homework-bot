@@ -30,8 +30,7 @@ client.on("message", (message) => {
       "Portfolio Draft due Feb 19th \n" +
       "Quizzes due Every Friday \n" +
         //PHP
-        "__**PHP Basics:**__\n" + +
-      "Module 7 due Feb 19th \n" +
+        "__**PHP Basics:**__\n" + 
       "Module 7 due Feb 19th \n" +
       "Quiz 6 due Feb 21st \n" +
         //Javascript
