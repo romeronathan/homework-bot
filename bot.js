@@ -23,6 +23,7 @@ client.on("message", (message) => {
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
       "Labs 4-6 Due Feb 22nd \n" +
+      "Final Project Proposal Due Feb 22nd \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       "Assignment 4 due Feb 17th \n" +
@@ -84,7 +85,7 @@ client.on("message", (message) => {
       "***Upcoming Tests***\n" +
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
-        "\n" +
+        "MID-TERM EXAM on Feb 23rd at 11am \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
         "\n" +
