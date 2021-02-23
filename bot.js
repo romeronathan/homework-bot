@@ -22,25 +22,24 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
-      "Labs 4-6 Due Feb 22nd \n" +
-      "Final Project Proposal Due Feb 22nd \n" +
+      "Final Project Proposal Due Feb 24nd \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       "Assignment 5 due Feb 24th \n" +
-      "Portfolio Draft due Feb 19th \n" +
+      "Assignment 6 due Mar 3rd \n" +
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" + 
-      "Module 7 due Feb 19th \n" +
-      "Quiz 6 due Feb 21st \n" +
+      "Module 8 due Feb 26th \n" +
+      "Midterm Due Mar 2nd \n" +
+      "Quiz 7 due Feb 28th \n" +
         //Javascript
-        "__**JAVASCRIPT I:**__\n" +
-      "3A Assignment due Feb 22nd \n" +  
+        "__**JAVASCRIPT I:**__\n" + 
       "3B Assignment due Mar 1st \n" +
       "Quiz 3 due Feb 26th \n" +
         //Android Development
         "__**Android Development I:**__\n" +
-        "Labs 11-13 due Feb 19th \n"     
+        "Lab 14 due Feb 26th \n"     
     );
   } else if (command === "help") {
     message.channel.send(
@@ -84,7 +83,7 @@ client.on("message", (message) => {
       "***Upcoming Tests***\n" +
         // Java
         "__**JAVA PROGRAMMING II:**__\n" +
-        "MID-TERM EXAM on Feb 23rd at 11am \n" +
+        "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
         "\n" +
