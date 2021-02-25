@@ -22,10 +22,9 @@ client.on("message", (message) => {
       "***Homework Due:***\n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
-      "Final Project Proposal Due Feb 24nd \n" +
+      " \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
-      "Assignment 5 due Feb 24th \n" +
       "Assignment 6 due Mar 3rd \n" +
       "Quizzes due Every Friday \n" +
         //PHP
