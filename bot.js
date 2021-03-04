@@ -25,20 +25,20 @@ client.on("message", (message) => {
       " \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
-      "Assignment 6 due Mar 3rd \n" +
+      "Test 1 due Mar 12th \n" +
+      "Assignment 7 due Mar 24th \n" +
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" + 
-      "Module 8 due Feb 26th \n" +
-      "Midterm Due Mar 2nd \n" +
-      "Quiz 7 due Feb 28th \n" +
+      "Module 8 due Mar 12th \n" +
+      "Quiz 8 due Mar 7th \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" + 
-      "3B Assignment due Mar 1st \n" +
-      "Quiz 3 due Feb 26th \n" +
+      "\n" +
         //Android Development
         "__**Android Development I:**__\n" +
-        "Lab 14 due Feb 26th \n"     
+        "Take Home Exam due Mar 5th \n" +
+      "Last updated: ***Mar 3rd*** \n" +
     );
   } else if (command === "help") {
     message.channel.send(
