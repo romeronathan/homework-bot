@@ -20,7 +20,7 @@ client.on("message", (message) => {
   if (command === "homework") {
     message.channel.send(
       "***Homework Due:***\n" +
-      "Last updated: ***Mar 8th*** \n" +
+      "Last updated: ***Mar 3rd*** \n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
       "\n" +
@@ -31,15 +31,14 @@ client.on("message", (message) => {
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" + 
-      "Module 9 due Mar 12th \n" +
-      "Quiz 8 due Mar 14th \n" +
+      "Module 8 due Mar 12th \n" +
+      "Quiz 8 due Mar 7th \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" + 
-      "Assignment 4 due Mar 22nd \n" +
-      "Quiz 4 due Mar 12th \n" +
+      "\n" +
         //Android Development
         "__**Android Development I:**__\n" +
-      "\n" +
+        "Take Home Exam due Mar 5th \n" 
     );
   } else if (command === "help") {
     message.channel.send(
