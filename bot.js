@@ -23,7 +23,6 @@ client.on("message", (message) => {
       "Last updated: ***Mar 8th*** \n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
-      "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       "Test 1 due Mar 12th \n" +
@@ -36,7 +35,7 @@ client.on("message", (message) => {
         //Javascript
         "__**JAVASCRIPT I:**__\n" + 
       "Assignment 4 due Mar 22nd \n" +
-      "Quiz 4 due Mar 12th \n"
+      "Quiz 4 due Mar 12th \n" +
         //Android Development
         "__**Android Development I:**__\n" +
     );
