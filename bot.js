@@ -94,7 +94,7 @@ client.on("message", (message) => {
         //Android
         "__**Android Development I:**__\n" +
         "\n" 
-    );
+    ); 
   } 
       //Finals Schedule
 //     else if (command === "finals") {
