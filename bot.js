@@ -23,6 +23,7 @@ client.on("message", (message) => {
       "Last updated: ***Mar 8th*** \n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
+      "\n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
       "Test 1 due Mar 12th \n" +
@@ -38,6 +39,7 @@ client.on("message", (message) => {
       "Quiz 4 due Mar 12th \n" +
         //Android Development
         "__**Android Development I:**__\n" +
+      "\n" +
     );
   } else if (command === "help") {
     message.channel.send(
