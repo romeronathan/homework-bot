@@ -31,10 +31,12 @@ client.on("message", (message) => {
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" + 
-      "Module 8 due Mar 12th \n" +
+      "Module 9 due Mar 12th \n" +
+      "Quiz 8 due Mar 14th \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" + 
-      "\n" +
+      "Assignment 4 due Mar 22nd \n" +
+      "Quiz 4 due Mar 12th \n"
         //Android Development
         "__**Android Development I:**__\n" +
     );
