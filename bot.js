@@ -37,7 +37,6 @@ client.on("message", (message) => {
         "__**JAVASCRIPT I:**__\n" + 
        "Assignment 4 due Mar 22nd \n" +
       "Quiz 4 due Mar 12th \n" +
-      "\n" +
         //Android Development
         "__**Android Development I:**__\n" +
         "\n" 
