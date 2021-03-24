@@ -20,7 +20,7 @@ client.on("message", (message) => {
   if (command === "homework") {
     message.channel.send(
       "***Homework Due:***\n" +
-      "Last updated: ***Mar 23rd*** \n" +
+      "Last updated: ***Mar 24th*** \n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
       "Labs 10, 11 & 12 due Mar 30th \n" +
