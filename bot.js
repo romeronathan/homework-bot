@@ -26,7 +26,6 @@ client.on("message", (message) => {
       "Labs 10, 11 & 12 due Mar 30th \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
-      "Assignment 7 due Mar 24th \n" +
       "Assignment 8 due Mar 31st \n" +
       "Quizzes due Every Friday \n" +
         //PHP
