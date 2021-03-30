@@ -20,26 +20,26 @@ client.on("message", (message) => {
   if (command === "homework") {
     message.channel.send(
       "***Homework Due:***\n" +
-      "Last updated: ***Mar 24th*** \n" +
+      "Last updated: ***Mar 30th*** \n" +
         // Java
         "__**JAVA PROGRAMING II:**__\n" +
-      "Labs 10, 11 & 12 due Mar 30th \n" +
+      "Labs 13, 14, 15 due Apr 6th \n" +
+      "Journal 3 due Apr 6 \n" +
         //CSS
         "__**Web Design/CSS: **__\n" +
-      "Assignment 8 due Mar 31st \n" +
+      "Assignment 9 due Apr 7th \n" +
       "Quizzes due Every Friday \n" +
         //PHP
         "__**PHP Basics:**__\n" + 
-      "Module 10 due Mar 26th \n" +
-      "Quiz 9 due Mar 28th \n" +
+      "Module 11 A-D due Apr 3rd \n" +
+      "Quiz 10 due Apr 11th \n" +
         //Javascript
         "__**JAVASCRIPT I:**__\n" + 
-      "Assignment 5a due Mar 29th \n" +
-      "Assignment 5b due April 5th \n" +
+      "Assignment 5b due Apr 5th \n" +
       "Quiz 5 due April 1st \n" +
         //Android Development
         "__**Android Development I:**__\n" +
-        "Lab 15 due Mar 26th \n" 
+        "Lab 16 & 17 due Apr 2nd \n"
     );
   } else if (command === "help") {
     message.channel.send(
@@ -48,7 +48,7 @@ client.on("message", (message) => {
         "!lectures\n" +
         "!schedule\n" +
         "!tests\n" +
-        //"!finals\n" +
+        "!finals\n" +
         "!flip\n" +
         "!countdown\n" +
         "!toby\n" +
@@ -99,26 +99,26 @@ client.on("message", (message) => {
     );
   } 
       //Finals Schedule
-//     else if (command === "finals") {
-//       message.channel.send(
-//         "***Finals Schedule***\n" +
-//             // Java
-//           "__**JAVA PROGRAMMING II:**__\n" +
-//          "\n\n"+
-//           //CSS
-//           "\n__**Web Design/CSS: **__\n" +
-//           "\n\n" +
-//           //PHP
-//           "\n__**PHP Basics:**__\n" +
-//           "\n\n" +
-//           //Javascript
-//           "\n__**JAVASCRIPT I:**__\n" +
-//           "\n\n" +    
-//           //Android
-//           "\n__**Android Development I:**__\n" +
-//           "\n\n"
-//     );
-//   }
+    else if (command === "finals") {
+      message.channel.send(
+        "***Finals Schedule***\n" +
+            // Java
+          "__**JAVA PROGRAMMING II:**__\n" +
+         "Take Home Exam due Apr 23rd \n" +
+          //CSS
+          "\n__**Web Design/CSS: **__\n" +
+         "Take Home Exam due Apr 21st \n" +
+          //PHP
+          "\n__**PHP Basics:**__\n" +
+          "Synchronous Exam on Apr 19th @ 8am \n" +
+          //Javascript
+          "\n__**JAVASCRIPT I:**__\n" +
+          "Take Home Exam due Apr 22nd \n" +
+          //Android
+          "\n__**Android Development I:**__\n" +
+          "Take Home Exam due Apr 23rd \n"
+    );
+  }
     else if (command === "schedule") {
       message.channel.send(
         "https://media.discordapp.net/attachments/759615840684867584/788088015233744936/unknown.png"
