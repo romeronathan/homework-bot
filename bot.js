@@ -41,8 +41,8 @@ client.on("message", (message) => {
         //Android Development
         "__**Android Development I:**__\n" +
         "Lab 16 & 17 due Apr 9th \n" +
-      "\n"
-      "\n"
+      "\n" +
+      "\n" +
       "**CHECK OUT !finals for Exam Schedule!!** \n"
     );
   } else if (command === "help") {
